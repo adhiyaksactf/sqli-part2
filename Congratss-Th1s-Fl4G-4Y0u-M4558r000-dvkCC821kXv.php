@@ -26,7 +26,7 @@
 <div id="wrapper">
 	<div id="three-column" class="container">
 		<div class="title">
-			<h3>Flag{Praktikum_Keamanan_Informasi_WebVulN_Expl0it!}</h3>
+			<h3>Flag{InfoSec_SQLi_Extr4cT_Th3_DB_Expl0it!}</h3>
             <br><br>
 			<img src="images/messi.png" alt="Girl in a jacket" style="width:500px;height:600px;">
 		</div>
